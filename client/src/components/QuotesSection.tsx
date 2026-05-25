@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { quotesContent, images } from "../data/content";
-import { Quote, ChevronLeft, ChevronRight } from "lucide-react";
+import { Quote } from "lucide-react";
 
 export default function QuotesSection() {
   const [current, setCurrent] = useState(0);
@@ -17,17 +17,6 @@ export default function QuotesSection() {
     }, 5000);
     return () => clearInterval(timer);
   }, []);
-
-  const goTo = (index: number) => {
-    setFade(false);
-    setTimeout(() => {
-      setCurrent(index);
-      setFade(true);
-    }, 300);
-  };
-
-  const prev = () => goTo((current - 1 + quotesContent.length) % quotesContent.length);
-  const next = () => goTo((current + 1) % quotesContent.length);
 
   return (
     <section className="py-16 bg-cream">

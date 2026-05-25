@@ -28,23 +28,6 @@ const quickQuestions = [
   "How to apply for admissions?",
 ];
 
-const sentenceSplitter = /[^.!?]+[.!?]+|[^.!?]+$/g;
-
-const splitSentences = (text: string): string[] => {
-  const matches = text.match(sentenceSplitter);
-  return (matches ?? [text]).map((sentence) => sentence.trim()).filter(Boolean);
-};
-
-const groupSentences = (sentences: string[], groupSize = 2): string[] => {
-  const groups: string[] = [];
-
-  for (let index = 0; index < sentences.length; index += groupSize) {
-    groups.push(sentences.slice(index, index + groupSize).join(" "));
-  }
-
-  return groups;
-};
-
 const normalizeAssistantText = (text: string): string => {
   const protectedUrls: string[] = [];
   const urlToken = /https?:\/\/[^\s)]+/gi;

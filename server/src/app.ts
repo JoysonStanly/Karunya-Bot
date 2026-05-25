@@ -1,9 +1,16 @@
+import path from "node:path";
+import { existsSync } from "node:fs";
 import express from "express";
 import type { Application, Request, Response } from "express";
 import cors from "cors";
+import { fileURLToPath } from "node:url";
 import errorHandler from "./middleware/error-handler.middleware.ts";
 import chatRoutes from "./routes/chat.routes.ts";
 const app: Application = express();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const clientDistPath = path.resolve(__dirname, "../../client/dist");
+const hasClientBuild = existsSync(path.join(clientDistPath, "index.html"));
 
 const allowedOrigins = (
   process.env.CLIENT_URLS || process.env.CLIENT_URL || "http://localhost:5173"
@@ -57,6 +64,14 @@ app.get("/api", (_req: Request, res: Response) => {
 });
 
 app.use("/api/chat", chatRoutes);
+
+if (hasClientBuild) {
+  app.use(express.static(clientDistPath));
+
+  app.get(/^\/(?!api).*/, (_req: Request, res: Response) => {
+    res.sendFile(path.join(clientDistPath, "index.html"));
+  });
+}
 
 app.use((_req: Request, res: Response) => {
   res.status(404).json({ success: false, message: "Route not found." });

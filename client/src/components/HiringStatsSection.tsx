@@ -1,5 +1,5 @@
 import { elitePlacements, placementHighlights, topRecruiters } from "../data/content";
-import { ArrowUpRight, Award, Building2, DollarSign, TrendingUp, Users } from "lucide-react";
+import { Award, Building2, DollarSign, TrendingUp, Users } from "lucide-react";
 
 export default function HiringStatsSection() {
   return (

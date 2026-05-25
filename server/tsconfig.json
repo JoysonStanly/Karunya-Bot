@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
     "outDir": "./dist",
-    "module": "nodenext",
+    "rootDir": "./src",
+    "module": "NodeNext",
     "target": "esnext",
     "types": ["node"],
     "sourceMap": true,
@@ -11,7 +12,6 @@
     "exactOptionalPropertyTypes": true,
     "allowImportingTsExtensions": true,
     "rewriteRelativeImportExtensions": true,
-    "noEmit": true,
     "strict": true,
     "verbatimModuleSyntax": true,
     "isolatedModules": true,
