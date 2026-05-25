@@ -10,7 +10,7 @@ import { MongoDBAtlasVectorSearch } from "@langchain/mongodb";
 import { TextLoader } from "@langchain/classic/document_loaders/fs/text";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { HumanMessage, SystemMessage } from "@langchain/core/messages";
-import { getMongoDbName } from "../config/database.config.ts";
+import { getMongoDbName } from "../config/database.config.js";
 // --- MongoDB Native Client (for LangChain vector operations) ---
 // ---- __dirname for ESM ----
 const __filename = fileURLToPath(import.meta.url);
