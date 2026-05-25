@@ -91,7 +91,7 @@ export const aboutContent = {
   highlights: [
     { value: "NAAC A++",  label: "Accredited Institution" },
     { value: "8000+",     label: "Active Students 2025" },
-    { value: "700 Acres", label: "Green Smart Campus" },
+    { value: "720+ Acres", label: "Green Smart Campus" },
     { value: "50,000+",   label: "Alumni Across the Globe" },
   ],
 };
@@ -180,7 +180,7 @@ export const quotesContent = [
 export const campusFeatures = [
   {
     title: "Smart Green Campus",
-    desc:  "700-acre eco-friendly campus nestled in the Western Ghats with modern infrastructure and smart learning spaces.",
+    desc:  "720+ acre eco-friendly campus nestled in the Western Ghats with modern infrastructure and smart learning spaces.",
     image: images.hero, // Aerial view of campus
   },
   {

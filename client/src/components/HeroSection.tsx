@@ -54,7 +54,7 @@ export default function HeroSection() {
             </div>
             <div className="w-px h-10 bg-white/20" />
             <div>
-              <p className="text-2xl md:text-3xl font-bold text-white">700 Ac</p>
+              <p className="text-2xl md:text-3xl font-bold text-white">720+ Acres</p>
               <p className="text-white/60 text-xs md:text-sm">Smart Campus</p>
             </div>
           </div>
