@@ -1,0 +1,656 @@
+# Karunya Institute of Technology and Sciences
+
+## Basic Information
+
+* Institution Name: Karunya Institute of Technology and Sciences
+* Short Name: KITS
+* Institution Type: Deemed-to-be University
+* Established Year: 1986
+* Founder: Late Dr. D. G. S. Dhinakaran
+* Chancellor: Dr. Paul Dhinakaran
+* Autonomous Status Granted: 1999
+* Deemed University Status Granted: 2004
+* Governing Body: University Grants Commission (UGC)
+* Accreditation: NAAC A++
+* Campus Location: Karunya Nagar, Coimbatore, Tamil Nadu, India
+* Campus Size: 720+ acres
+* Total Students: 8000+ active students (2025)
+* Faculty Count: 452+
+* Academic Departments: 18
+* Alumni Network: 50,000+ alumni worldwide
+
+---
+
+# University Vision
+
+* Compassion-driven education
+* Research-oriented learning
+* Character and value-based education
+* Social responsibility and humanitarian service
+* Technology solutions for:
+
+  * Water
+  * Food
+  * Healthcare
+  * Sustainable Energy
+
+---
+
+# University Mission
+
+* Raise professionals with academic excellence and ethical values
+* Promote innovation, research, and entrepreneurship
+* Develop solutions for societal challenges
+* Encourage scientific and technological advancement
+* Create leaders with social concern and global impact
+
+---
+
+# Key Highlights
+
+* Industry-powered programs
+* International internships in 85+ countries
+* Learn from world top 2% scientists
+* 100% placement assistance
+* Strong startup and innovation ecosystem
+* Research and incubation centers
+* Modern smart campus infrastructure
+* Value-based education model
+* Global academic collaborations
+
+---
+
+# Rankings and Accreditations
+
+## Accreditation
+
+* NAAC A++ Accredited Institution
+* NBA Accredited Programs
+* UGC Recognized Deemed-to-be University
+
+## NIRF Engineering Rankings
+
+* 2016: Rank 44
+* 2017: Rank 62
+* 2018: Rank 72
+* 2019: Rank 72
+
+## NIRF University Rankings
+
+* 2016: Rank 48
+* 2017: Rank 74
+* 2018: Rank 89
+* 2019: Rank 92
+
+---
+
+# Undergraduate Programs (UG)
+
+## B.Tech Programs
+
+### School of Computer Science & Technology
+
+* B.Tech Computer Science and Engineering
+* B.Tech CSE (Artificial Intelligence)
+* B.Tech CSE (AI & ML)
+* B.Tech CSE (Cyber Security)
+* B.Tech CSE (Quantum Computing)
+* B.Tech Artificial Intelligence and Data Science
+
+### School of Engineering & Technology
+
+* B.Tech Aerospace Engineering
+* B.Tech Aerospace Engineering (UAV)
+* B.Tech Aerospace Engineering (AI & ML)
+* B.Tech Aerospace Engineering (Aircraft Maintenance)
+* B.Tech Biomedical Engineering
+* B.Tech Biomedical Engineering (AI & ML)
+* B.Tech Biotechnology
+* B.Tech Biotechnology (Artificial Intelligence)
+* B.Tech Biotechnology (Genome Engineering and Technology)
+* B.Tech Civil Engineering
+* B.Tech Civil Engineering (Building Information Modelling & Digital Twin)
+* B.Tech Civil Engineering (Geospatial Technology)
+* B.Tech Electrical and Electronics Engineering
+* B.Tech EEE (AI & ML)
+* B.Tech Electronics and Communication Engineering
+* B.Tech ECE (AI & ML)
+* B.Tech Food Processing and Engineering
+* B.Tech Food Processing and Engineering (IoT)
+* B.Tech Mechanical Engineering
+* B.Tech Mechanical Engineering (AI & ML)
+* B.Tech Robotics and Automation
+* B.Tech Robotics and Automation (AI & DS)
+* B.Tech Robotics and Automation (AI & ML)
+
+---
+
+# Science and Other UG Programs
+
+* B.Sc (Hons.) Agriculture
+* B.Sc Artificial Intelligence and Data Science
+* B.Sc Energy Science and Technology
+* B.Sc Forensic Science
+* B.Sc Information Security and Digital Forensics
+* B.Sc (Hons.) Psychology
+* B.Sc Semiconductor Technology
+* B.Sc Media Production and Digital Marketing
+* B.Sc Medical Laboratory Technology
+* B.Sc Radiography and Imaging Technology
+* B.Sc Operation Theatre and Anesthesia Technology
+* B.Com Professional Accounting and Financial Technology
+
+---
+
+# Postgraduate Programs (PG)
+
+## M.Tech Programs
+
+* Aerospace Engineering
+* Biomedical Instrumentation
+* Biotechnology
+* Food Processing and Engineering
+* Robotics and Automation
+* Structural Engineering
+* VLSI Design
+* Virtual Prototyping & Digital Manufacturing
+* Artificial Intelligence and Data Science
+* Computer Science and Engineering
+* CSE (AI & ML)
+* Cyber Security
+
+## M.Sc Programs
+
+* Biotechnology
+* Food Science and Technology
+* Artificial Intelligence and Data Science
+* Forensic Science
+* Agronomy
+* Genetics and Plant Breeding
+* Fruit Science
+
+## MBA Programs
+
+* Master of Business Administration (MBA)
+
+## PG Diploma Programs
+
+* PG Diploma in Medical and Analytical Laboratory Technology
+
+---
+
+# PhD Programs
+
+* Aerospace Engineering
+* Agriculture
+* Civil Engineering
+* Computer Applications
+* Computer Science and Engineering
+* Criminology
+* EEE
+* ECE
+* Visual Communication
+* Mechanical Engineering
+* Biotechnology
+* Chemistry
+* Commerce
+* Food Processing
+* Mathematics
+* Management Sciences
+* Nanoscience and Technology
+* Physics
+* Robotics Engineering
+* Biomedical Engineering
+* Forensic Science
+* English
+* Water Resources Management
+* Physical Education
+* Library and Information Science
+
+---
+
+# Admission Process
+
+## Undergraduate Admission Modes
+
+* Karunya Entrance Examination (KEE)
+* JEE Main
+* +2 / HSC Merit
+
+## B.Tech Eligibility
+
+* Minimum 60% aggregate in:
+
+  * Physics
+  * Chemistry
+  * Mathematics
+
+## Postgraduate Admission
+
+* GATE scores (selected M.Tech programs)
+* University admission criteria
+* Entrance exams/interviews
+
+## PhD Admission
+
+* Entrance examination
+* Research interview process
+
+---
+
+# Scholarship Information
+
+## Available Scholarships
+
+* Merit scholarships
+* KEE scholarship slabs
+* Need-based financial aid
+* Sports scholarships
+* Government scholarship schemes
+* Minority scholarships
+
+## Scholarship Benefits
+
+* Up to 100% scholarship support
+* 1092+ students benefited in 2025
+
+---
+
+# B.Tech Fee Structure (2026–2030)
+
+## Category 1 Programs
+
+Programs:
+
+* CSE
+* CSE (AI)
+* CSE (AI & ML)
+* CSE (Cyber Security)
+* AI & DS
+* ECE
+
+### Tuition Fees Per Semester
+
+| Scholarship Category | Fee       |
+| -------------------- | --------- |
+| KEE Slab 1           | ₹74,750   |
+| KEE Slab 2           | ₹1,16,750 |
+| KEE Slab 3           | ₹1,36,750 |
+| Non-Scholarship      | ₹1,51,750 |
+
+### Admission Fee
+
+* ₹10,000 (One-time)
+
+---
+
+## Category 2 Programs
+
+Programs:
+
+* Aerospace
+* Biomedical
+* Robotics
+* Biotechnology
+
+| Scholarship Category | Fee       |
+| -------------------- | --------- |
+| KEE Slab 1           | ₹62,500   |
+| KEE Slab 2           | ₹97,500   |
+| KEE Slab 3           | ₹1,17,500 |
+| Non-Scholarship      | ₹1,39,250 |
+
+---
+
+## Category 3 Programs
+
+Programs:
+
+* Civil
+* Mechanical
+* EEE
+* Food Processing
+
+| Scholarship Category | Fee       |
+| -------------------- | --------- |
+| KEE Slab 1           | ₹50,000   |
+| KEE Slab 2           | ₹82,500   |
+| KEE Slab 3           | ₹1,06,750 |
+| Non-Scholarship      | ₹1,19,250 |
+
+---
+
+# B.Tech Lateral Entry Fee
+
+## Group 1
+
+* Civil
+* Mechanical
+* EEE
+* Food Processing
+
+Fee:
+
+* ₹1,16,750 per semester
+
+## Group 2
+
+* Aerospace
+* Biomedical
+* Robotics
+* Biotechnology
+
+Fee:
+
+* ₹1,34,250 per semester
+
+## Group 3
+
+* CSE
+* AI & DS
+* ECE
+* CSE Specializations
+
+Fee:
+
+* ₹1,46,750 per semester
+
+Admission Fee:
+
+* ₹10,000
+
+---
+
+# MBA Fee Structure
+
+* KMAT Scholarship Fee: ₹1,37,000 per semester
+* Non-Scholarship Fee: ₹1,62,000 per semester
+* Admission Fee: ₹10,000
+
+---
+
+# M.Tech Fee Structure
+
+* Tuition Fee: ₹55,750 per semester
+* Admission Fee: ₹10,000
+
+---
+
+# M.Sc Fee Structure
+
+## AI & DS / Forensic Science
+
+* ₹67,400 per semester
+
+## Agriculture PG Programs
+
+* ₹60,750 per semester
+
+## Biotechnology / Food Science
+
+* ₹39,650 per semester
+
+Admission Fee:
+
+* ₹5,000
+
+---
+
+# B.Sc Agriculture Fee
+
+* ₹1,46,750 per semester
+* Admission Fee: ₹10,000
+
+---
+
+# B.Sc Psychology Fee
+
+* ₹64,900 per semester
+* Admission Fee: ₹5,000
+
+---
+
+# Health Sciences Fee
+
+Programs:
+
+* Medical Laboratory Technology
+* Radiography and Imaging Technology
+* Operation Theatre and Anesthesia Technology
+
+Fee:
+
+* ₹64,900 per semester
+* Admission Fee: ₹5,000
+
+---
+
+# Other UG Program Fees
+
+## Media Production and Digital Marketing
+
+* ₹99,900 per semester
+
+## Other B.Sc / B.Com Programs
+
+* ₹67,400 per semester
+
+Admission Fee:
+
+* ₹5,000
+
+---
+
+# PG Diploma Fee
+
+* PG Diploma in Medical and Analytical Laboratory Technology
+* ₹70,000 per semester
+* Admission Fee: ₹5,000
+
+---
+
+# PhD Fee Structure
+
+## Full-Time PhD
+
+* ₹20,000 per semester
+
+## Part-Time PhD
+
+* ₹37,500 per semester
+
+Admission Fee:
+
+* ₹1,000
+
+---
+
+# Placement Statistics (2025)
+
+## Overall Placement Data
+
+* Placement Offers: 2163+
+* Students Placed: 1478
+* Companies Visited: 375
+* Multiple Offer Holders: 422
+
+## Highest Package
+
+* ₹23.5 LPA
+
+## Top Packages
+
+* Google: ₹21 LPA
+* Sabre: ₹13.5 LPA
+* Infosys: ₹9.5 LPA
+* TCS: ₹9 LPA
+
+## Major Recruiters
+
+* Google
+* IBM
+* Infosys
+* TCS
+* Cisco
+* PwC
+* Zoho
+* JPMorgan Chase
+* Mercedes-Benz
+* Deloitte
+* Cognizant
+* Hyundai
+* Federal Bank
+* Asian Paints
+* Reliance Jio
+
+---
+
+# Department-wise Placement Strength
+
+## Strong Placement Departments
+
+* CSE
+* AI & DS
+* AI & ML
+* ECE
+
+## Companies Visiting (2025)
+
+* CSE: 170
+* AI & DS: 170
+* AI & ML: 170
+* ECE: 97
+* Mechanical: 84
+* Civil: 64
+
+---
+
+# Campus Facilities
+
+## Academic Facilities
+
+* Smart classrooms
+* AI labs
+* Robotics labs
+* Biotechnology labs
+* VLSI labs
+* Central digital library
+* High-speed WiFi
+* Research centers
+
+## Student Facilities
+
+* Boys hostel
+* Girls hostel
+* Medical center
+* Sports complex
+* Gymnasium
+* Cafeteria
+* Transportation
+* Seminar halls
+* Innovation centers
+* Startup incubation centers
+
+---
+
+# Hostel Fee Structure
+
+## Non-AC Hostel (Per Semester)
+
+| Room Type     | Fee     |
+| ------------- | ------- |
+| Dormitory     | ₹8,800  |
+| Six Seater    | ₹16,900 |
+| Four Seater   | ₹21,200 |
+| Three Seater  | ₹25,500 |
+| Double Seater | ₹30,400 |
+
+## AC Hostel (Per Semester)
+
+| Room Type     | Fee     |
+| ------------- | ------- |
+| Three Seater  | ₹46,900 |
+| Double Seater | ₹58,600 |
+| Single Seater | ₹70,300 |
+
+## Hostel Admission Fee
+
+* Non-AC: ₹10,000
+* AC: ₹20,000
+
+---
+
+# Mess Fee Structure
+
+| Mess Type           | Fee     |
+| ------------------- | ------- |
+| Vegetarian Mess     | ₹32,300 |
+| Non-Vegetarian Mess | ₹34,500 |
+| Special Mess        | ₹49,900 |
+
+---
+
+# Transport Fee Structure
+
+| Route                         | Fee     |
+| ----------------------------- | ------- |
+| Up to Thondamuthur/Madampatti | ₹12,000 |
+| Up to Gandhipuram/Thudiyalur  | ₹23,900 |
+| Beyond Major City Limits      | ₹29,900 |
+
+---
+
+# Student Activities
+
+* IEEE
+* ACM
+* Hackathons
+* Technical symposiums
+* Workshops
+* Guest lectures
+* Sports tournaments
+* Cultural festivals
+* Startup incubation
+* Innovation competitions
+* NSS
+* NCC
+
+---
+
+# Faculty Highlights
+
+* 452+ faculty members
+* Research-oriented teaching
+* International publications
+* Industry collaborations
+* Innovation and patent support
+* Entrepreneurship mentoring
+
+---
+
+# Contact Information
+
+## General Contact
+
+* Website: [https://www.karunya.edu](https://www.karunya.edu)
+* Email: [info@karunya.edu](mailto:info@karunya.edu)
+* Toll Free:
+
+  * 1800 889 9888
+  * 1800 425 4300
+
+## Placement Cell
+
+* Email: [placement@karunya.edu](mailto:placement@karunya.edu)
+* Alternate Email: [director_tp@karunya.edu](mailto:director_tp@karunya.edu)
+* Phone: 0422-2614317
+* Mobile: +91 94878 46508
+* WhatsApp: +91 94878 46610
+
+## Address
+
+Karunya Institute of Technology and Sciences
+Karunya Nagar
+Coimbatore – 641114
+Tamil Nadu
+India
