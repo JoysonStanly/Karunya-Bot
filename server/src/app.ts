@@ -63,6 +63,22 @@ app.get("/api", (_req: Request, res: Response) => {
   res.json({ success: true, message: "API is running." });
 });
 
+app.get("/", (_req: Request, res: Response) => {
+  if (hasClientBuild) {
+    res.sendFile(path.join(clientDistPath, "index.html"));
+    return;
+  }
+
+  res.json({
+    success: true,
+    message: "API is running.",
+    endpoints: {
+      health: "/api",
+      chat: "/api/chat/message",
+    },
+  });
+});
+
 app.use("/api/chat", chatRoutes);
 
 if (hasClientBuild) {
